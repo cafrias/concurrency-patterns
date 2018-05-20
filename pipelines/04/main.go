@@ -1,5 +1,7 @@
 package main
 
+// Resource: Concurrency in Go, Ch. 4. Katherine Cox-Buday.
+
 import "fmt"
 
 func repeat(
